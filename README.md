@@ -1,4 +1,6 @@
 # 🎬 IMDb Movie & Series Finder
+![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A lightweight desktop GUI application that allows you to search for movies and TV series using IMDb or OMDb data sources. It displays detailed information such as title, year, rating, genre, director, plot, and poster image in a clean, dark-themed graphical interface.
 
