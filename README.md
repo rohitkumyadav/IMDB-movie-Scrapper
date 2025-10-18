@@ -4,23 +4,6 @@ A lightweight desktop GUI application that allows you to search for movies and T
 
 ---
 
-## 📖 Table of Contents
-
-1. [Features](#features)
-2. [Project Structure](#project-structure)
-3. [Requirements](#requirements)
-4. [Installation (Step-by-Step)](#installation-step-by-step)
-5. [Configuration](#configuration)
-6. [Run the App](#run-the-app)
-7. [How It Works (Internals)](#how-it-works-internals)
-8. [Screenshots](#screenshots)
-9. [Troubleshooting](#troubleshooting)
-10. [Testing](#testing)
-11. [Contributing](#contributing)
-12. [License](#license)
-
----
-
 ## 🚀 Features
 
 - Search for movies or series by title.
