@@ -154,7 +154,7 @@ Results including the poster and details will appear below.
 
 Example output (for the movie **RRR**):
 
-![RRR Result Screenshot](assets/screenshot_main.png)
+![RRR Result Screenshot](./ss.png)
 
 ---
 
